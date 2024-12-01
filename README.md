@@ -30,7 +30,7 @@ p[midnight-purple_repo]:https://github-readme-stats.vercel.app/api/pin/?username
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
 </p>
   
