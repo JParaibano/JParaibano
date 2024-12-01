@@ -50,4 +50,4 @@ p[midnight-purple_repo]:https://github-readme-stats.vercel.app/api/pin/?username
   ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-5a3b76.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-5a3b76?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp; -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a46d2&height=120&section=footer"/>
