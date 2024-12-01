@@ -12,6 +12,7 @@
   <div>
     <a href = "https://www.linkedin.com/in/jo%C3%A3oguilherme69/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </div>
+  <img src="https://img.shields.io/static/v1?message=jparaibano18@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
     
     
   
