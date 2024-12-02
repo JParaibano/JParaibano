@@ -11,10 +11,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,python" />
   </a>
 </p>
+<br>
  <h2>Interaja comigo:</h2>
   <div>
     <a href = "https://www.linkedin.com/in/jo%C3%A3oguilherme69/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </div>
+     <br>
      <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JParaibano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
