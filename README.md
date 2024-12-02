@@ -3,9 +3,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
 
 <div align="center">
-  <img width="41%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/JParaibano?cardType=github&Background=0D1117&Text=00BFBF&Title=9C55DF&Border=C77DFF&Ring=C77DFF&width=41%&height=195px]https://git.io/awesome-stats-card" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JParaibano&layout=compact&hide_border=false&border_color=C77DFF&title_color=9D4EDD&text_color=00bfbf&bg_color=0d1117" />
-<div/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JParaibano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JParaibano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
  
   ### Interaja comigo:
 
