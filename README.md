@@ -4,7 +4,13 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+João+Guilherme!;" />
 </h1>
 
-
+ <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+  
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+  </a>
+</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JParaibano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JParaibano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -17,18 +23,7 @@
   </div>
    
 <br>
-<br>
-  <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
-  
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python" />
-  </a>
-</p>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
 </h1>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60b9f6&height=120&section=footer"/>
-
-<img src="https://raw.githubusercontent.com/JParaibano/JParaibano/output/snake.svg" alt="Snake animation" />
-
