@@ -25,7 +25,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,python" />
   </a>
 </p>
-
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60b9f6&height=120&section=footer"/>
 
 <img src="https://raw.githubusercontent.com/JParaibano/JParaibano/output/snake.svg" alt="Snake animation" />
